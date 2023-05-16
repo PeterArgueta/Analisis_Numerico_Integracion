@@ -22,5 +22,6 @@ def simpson(f, a, b, n):
     resultado = (h / 3) * (f(a) + 4 * sumaimpar + 2 * sumapar + f(b))
     return resultado
 
-resultadosimpson=simpson(f,a,b,n)
-print(resultadosimpson)
+for n in range(10,100,10):  
+    resultadosimpson=simpson(f,a,b,n)
+    print(n, resultadosimpson)

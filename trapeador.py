@@ -1,8 +1,8 @@
 import numpy as np
-
+import pandas as pd
 a=2
 b=6
-n=10
+#n=10
 
 def f(x):
     return(np.cos(np.sqrt(x)))
@@ -17,7 +17,12 @@ def trapecio(f, a, b, n):
 
     resultado = (h / 2) * (f(a) + 2 * suma + f(b))
     return resultado
-    
-resultadotrapecio=trapecio(f,a,b,n)
 
-print(resultadotrapecio)
+
+lista=[]
+for n in range(10,100,10):   
+    resultadotrapecio=trapecio(f,a,b,n)
+    print(n,resultadotrapecio)
+    lista.append([n,resultadotrapecio])
+df=pd.DataFrame(lista, columns=['n', 'metododeltrapecio'])
+print(df.to_latex())
