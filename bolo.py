@@ -3,7 +3,7 @@ import numpy as np
 a=2
 b=6
 n=4
-h = (b-a)/n
+h=(b-a)/n
 
 def f(x):
     return (np.cos(np.sqrt(x)))

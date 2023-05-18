@@ -4,12 +4,13 @@ a=2
 b=6  
 n=9
 
-h = (b - a) / n
+h = (b-a)/n
 
 def f(x):
     return(np.cos(np.sqrt(x)))
 
 def simpson(f, a, b, n):
+
     terminosmultiplosdetres = 0
     losdemas = 0
 
