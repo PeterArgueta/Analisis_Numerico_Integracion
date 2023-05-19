@@ -8,7 +8,7 @@ h=(b-a)/n
 def f(x):
     return (np.cos(np.sqrt(x)))
 
-def boole(f, a, b, n):
+def boole(f,a,b,n):
     suma = 0
 
     for i in range(n):
