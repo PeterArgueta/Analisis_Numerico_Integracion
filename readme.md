@@ -1,6 +1,6 @@
 ## Programas para el curso de análisis numérico
 
-# Método del trapecio y método de simpson 1/3.
+# Métodos de integración numérica
 
 Estos programas utilizan las bibliotecas numpy para definir la función que se quiere integrar en un intervalo [a,b]. Y siguen las siguientes formulas de aproximación de los distintos métodos. En el archivo .tex se muestran los códigos para generar las formulas en LaTeX.
 
