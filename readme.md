@@ -7,4 +7,4 @@ Estos programas utilizan las bibliotecas numpy para definir la función que se q
 
 # Método del trapecio 
 
-![Método_del_trapecio](https://raw.githubusercontent.com/PeterArgueta/repositorio/rama/ruta/al/asset)
+![Método_del_trapecio](https://raw.githubusercontent.com/PeterArgueta/Analisis_Numerico_Integracion/tree/master/img/trapecio.png)
