@@ -2,7 +2,7 @@
 
 # Método del trapecio y método de simpson 1/3.
 
-Estos programas utilizan las bibliotecas numpy para definir la función que se quiere integrar desde un intervalo [a,b].
+Estos programas utilizan las bibliotecas numpy para definir la función que se quiere integrar desde un intervalo [a,b]. Y siguen las siguientes formulas de aproximación de los distintos métodos. 
 
 
 # Método del trapecio 
