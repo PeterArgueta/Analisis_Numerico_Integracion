@@ -17,4 +17,4 @@ Estos programas utilizan las bibliotecas numpy para definir la función que se q
 
 # Método de Simpson 3/8
 
-![Método_del_trapecio](https://raw.githubusercontent.com/PeterArgueta/Analisis_Numerico_Integracion/master/img/trapecio.png)
+![Método_Simpson2](https://raw.githubusercontent.com/PeterArgueta/Analisis_Numerico_Integracion/master/img/simpson2.png)
