@@ -1,4 +1,4 @@
-## Programas para el curso de análisis numérico
+## Programas para el curso de Análisis Numérico de la Universidad Mariano Gálvez de Guatemala
 
 # Fórmulas de Newton-Cotes
 
